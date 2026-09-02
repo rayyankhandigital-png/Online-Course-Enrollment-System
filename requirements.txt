@@ -1,0 +1,8 @@
+Tkinter
+Tkinter is a built-in Python library used to create graphical user interfaces (GUIs) such as windows, buttons, labels, and input fields.
+MessageBox
+Messagebox is a Tkinter module used to display pop-up messages, alerts, and confirmations in a Python application.
+Json
+JSON (JavaScript Object Notation) is a simple format used to store and organize data in a structured way.
+OS
+OS (Operating System) is a Python module used to interact with the computer’s files, folders, and operating system functions.
